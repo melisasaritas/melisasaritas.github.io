@@ -3,6 +3,7 @@ title: Attacktive Directory – TryHackMe
 description: The solution for the "Attactive Directory" machine focuses on exploiting vulnerabilities in Active Directory.
 slug: attactive-directory
 image: cover.jpg
+date: 2025-04-06
 categories:
     - Write-Up
 tags:
