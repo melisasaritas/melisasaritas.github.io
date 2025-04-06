@@ -22,7 +22,7 @@ The solution follows a structured approach, including reconnaissance, user enume
 
 For a detailed step-by-step walkthrough of the solution, refer to the attached PDF file:
 
-📄 [Solution: Attactive Directory.pdf](/writeups/files/Attactive-Directory.pdf)
+📄 [Solution: Attactive Directory.pdf](/writeups/files/Attacktive_Directory_WriteUp.pdf)
 
 
 > Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
