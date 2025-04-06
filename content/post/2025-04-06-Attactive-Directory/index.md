@@ -2,7 +2,6 @@
 title: Attacktive Directory – TryHackMe
 description: The solution for the "Attactive Directory" machine focuses on exploiting vulnerabilities in Active Directory.
 slug: attactive-directory
-date: 2025-03-28 00:00:00+0000
 image: cover.jpg
 categories:
     - Write-Up
@@ -11,7 +10,7 @@ tags:
     - Privilege Escalation
     - Kerberos Abuse
     - Write-Up
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+weight: 1
 ---
 
 Attacktive Directory – TryHackMe
