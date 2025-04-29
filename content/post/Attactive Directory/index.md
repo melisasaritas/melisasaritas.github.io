@@ -11,7 +11,7 @@ tags:
     - Privilege Escalation
     - Kerberos Abuse
     - Write-Up
-weight: 1
+weight: 2
 ---
 
 Attacktive Directory – TryHackMe
