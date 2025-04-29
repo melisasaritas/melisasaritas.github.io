@@ -23,6 +23,6 @@ Each phase is executed using tools like Wireshark, ILSpy, CyberChef, and pypykat
 
 For a detailed step-by-step walkthrough of the solution, refer to the attached PDF file:
 
-📄 [Solution: Chrome.pdf](/writeups/files/Chrome.pdf)
+📄 [Solution: Chrome.pdf](/writeups/files/Chrome_WriteUp.pdf)
 
 > Photo by [Philipp Katzenberger](https://unsplash.com/@fantasyflip?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/closeup-photo-of-turned-on-blue-and-white-laptop-computer-iIJrUoeRoCQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
