@@ -11,7 +11,7 @@ tags:
     - Privilege Escalation
     - Kerberos Abuse
     - Write-Up
-weight: 2
+weight: 1
 ---
 
 Attacktive Directory – TryHackMe
@@ -24,5 +24,4 @@ For a detailed step-by-step walkthrough of the solution, refer to the attached P
 
 📄 [Solution: Attactive Directory.pdf](/writeups/files/Attacktive_Directory_WriteUp.pdf)
 
-
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+> Photo by [Philipp Katzenberger](https://unsplash.com/@fantasyflip?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/closeup-photo-of-turned-on-blue-and-white-laptop-computer-iIJrUoeRoCQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

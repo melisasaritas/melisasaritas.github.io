@@ -3,12 +3,12 @@ title: Chrome – TryHackMe
 description: The solution for the "Chrome" challenge.
 slug: chrome
 date: 2025-04-20
+image: cover.jpg
 categories:
     - Write-Up
 tags:
-    - Active Directory
+    - Chrome
     - Privilege Escalation
-    - Kerberos Abuse
     - Write-Up
 weight: 1
 ---
@@ -23,4 +23,6 @@ Each phase is executed using tools like Wireshark, ILSpy, CyberChef, and pypykat
 
 For a detailed step-by-step walkthrough of the solution, refer to the attached PDF file:
 
-📄 [Solution: Attactive Directory.pdf](/writeups/files/Chrome.pdf)
+📄 [Solution: Chrome.pdf](/writeups/files/Chrome.pdf)
+
+> Photo by [Philipp Katzenberger](https://unsplash.com/@fantasyflip?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/closeup-photo-of-turned-on-blue-and-white-laptop-computer-iIJrUoeRoCQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
